@@ -1,6 +1,6 @@
 # CustomMVC (PHP)
 
-This mini MVC framework is based on Brad Traversy's MVC framework used in his course. I'm using it to experiment, expand and learn PHP and grasp the MVC (Model-View-Controller) model.
+This mini MVC framework is based on Brad Traversy's MVC framework used in his course. I've created it to experiment, expand and learn PHP and grasp the MVC (Model-View-Controller) model.
 
 The repository additionally includes some examples files for basic controller, view and model logic.
 
