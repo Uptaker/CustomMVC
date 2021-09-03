@@ -4,6 +4,10 @@ This mini MVC framework is based on Brad Traversy's MVC framework used in his co
 
 The repository additionally includes some examples files for basic controller, view and model logic.
 
+### Example applications
+* [SharePosts](https://github.com/Uptaker/shareposts)
+* [This products demo page](https://github.com/Uptaker/ProductsDemo)
+
 ### Getting Started
 
 Copy the project in your folder and install the database dump in your PhpMyAdmin.
